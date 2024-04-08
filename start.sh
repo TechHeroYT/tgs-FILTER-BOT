@@ -5,7 +5,7 @@
 if [ -z $UPSTREAM_REPO ]
 then
   echo "Cloning main Repository"
-  git clone https://github.com/hero890/tgs-FILTER-BOT.git /tgs-FILTER-BOT
+  git clone https://github.com/TechheroYT/tgs-FILTER-BOT.git /tgs-FILTER-BOT
 else
   echo "Cloning Custom Repo from $UPSTREAM_REPO "
   git clone $UPSTREAM_REPO /tgs-FILTER-BOT
