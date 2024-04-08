@@ -1,4 +1,4 @@
-# Don't Remove Credit @hero_botss
+# Do not  Remove Credit @hero_botss
 # Subscribe YouTube Channel For Amazing Bot @Tech1HEro
 # Ask Doubt on telegram @hero_botss 
 
