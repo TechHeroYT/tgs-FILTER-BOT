@@ -23,7 +23,7 @@ API_HASH = environ.get('API_HASH', '0ff15ae2153bd8e03b48cb293010bc6a')
 BOT_TOKEN = environ.get('BOT_TOKEN', "6820397492:AAFXpYGvezwViBfM7i3SI3N6Wl7C-E-kMKo")
 
 # Bot settings
-CACHE_TIME = int(environ.get('CACHE_TIME', 1800))
+CACHE_TIME = int(environ.get('CACHE_TIME', 1800))             
 USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', True))
 
 PICS = (environ.get('PICS', 'https://graph.org/file/f5a26ac21b060d5787ea3.jpg https://graph.org/file/30539d8f1fc92423d6a19.jpg https://graph.org/file/2f4f9cc272bcfa37081af.jpg https://graph.org/file/7f4a9dba475bb0e832ef9.jpg https://graph.org/file/1cd7d4a6e8d57e9a3430f.jpg https://graph.org/file/1cd7d4a6e8d57e9a3430f.jpg https://graph.org/file/701ff72fb43d85e073f03.jpg https://graph.org/file/7a0a2c69b1301403d668e.jpg https://graph.org/file/758ac2c9e68cb0ab7d47f.jpg https://graph.org/file/5eff64632fe13c864542f.jpg https://graph.org/file/3bb39efa727ef01ba8a03.jpg https://graph.org/file/eb9149124b53326e32556.jpg https://graph.org/file/36b3377a46ef7f726fc73.jpg https://graph.org/file/c8e8c801022059acfc1c4.jpg https://graph.org/file/4010adb12e8e6df02160b.jpg')).split() #SAMPLE PIC
